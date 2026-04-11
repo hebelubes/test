@@ -1,4 +1,4 @@
-# test
+#
 # Hesap Makinesi
 Bu proje, temel matematiksel işlemler yapan bir Python uygulamasıdır.
 
